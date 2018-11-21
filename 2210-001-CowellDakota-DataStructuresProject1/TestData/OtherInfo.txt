@@ -1,0 +1,13 @@
+﻿public static void WelcomeMessage (String message, String caption, String author)
+This method should display a MessageBox (using MessageBox.Show (…)) to display the
+message parameter with a caption from the caption parameter.  The author and caption may have default
+values if you wish. public static void GoodbyeMessage (String message) Similar to WelcomeMessage above, this should 
+display a MessageBox with an appropriate goodbye message.  You may add other parameters such as a date or
+time or an author’s name if needed. public static void Setup() This method contains code that initializes 
+the console features such as background and foreground colors, the console caption, clears the console, 
+and takes any other steps that you might want to take to set up your console for a new console application.  
+Optionally, if you think it appropriate, it might also use your WelcomeMessage method above to display a welcome message.
+private static string CleanString (ref string work) This method takes an input string parameter
+(named work here), and it performs two types of cleanup operations on the string before returning 
+the resulting string.  Use appropriate methods from the String class.
+

@@ -1,0 +1,10 @@
+﻿Hello, my name is Dakota Cowell. I am a computer science major at ETSU, and I hope to develop iOS apps for a living. I am a senior
+here, and I will be graduating in May of 2019. I enjoy programming very much, and I hope this program works to the specifications of 
+the instructor. I am trying to type a lot of text to see how this works. I'm not sure how well
+this will turn out. This class should be very helpful to me when I am finished. 
+I want to learn a lot about data structures and how to code more efficiently.
+I need to write just a few more lines of text for this to count, so I am just 
+going to narrate what I am doing for a few more lines to come up with enough text to
+meet the requirements for this file. This project was fairly easy. The only problems I 
+had were with the new line characters and carriage returns. I attempted to remove them, but it 
+did not like when I tried to remove them. Especially the \r character. 
